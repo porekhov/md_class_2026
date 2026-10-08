@@ -10,3 +10,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/porekhov/md_class_2026/blob/main/09_ewald_and_pme.ipynb) Суммирование по Эвальду
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/porekhov/md_class_2026/blob/main/08_boltzmann_double_well.ipynb) Семплинг конфигурационного пространства и свободная энергия
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/porekhov/md_class_2026/blob/main/08_boltzmann_double_well.ipynb) Диффузия воды: расчет коэффициентов диффузии и радиальных функций распределения, учет периодических граничных условий
